@@ -1,0 +1,16 @@
+- space ship physics
+- laser cannon
+
+- space partition
+- collisions
+
+- rotated organisms
+- scale based on age
+- pregnancy colour
+- spherical point generation X
+
+- genomes
+
+- swarm intelligence 
+
+- multiple vao/shapes
